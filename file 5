@@ -1,0 +1,6 @@
+Git status
+Git add  file2 file3 file4
+Git status
+Git commit -m “added file1”
+Git log
+Git push 
